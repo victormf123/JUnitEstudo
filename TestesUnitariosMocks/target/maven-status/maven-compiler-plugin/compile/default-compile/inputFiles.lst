@@ -1,0 +1,12 @@
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/utils/DataUtils.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/exceptions/LocadoraException.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/servicos/LocacaoService.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/exceptions/NaoPodeDividirPorZeroException.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/entidades/Filme.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/servicos/Calculadora.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/daos/LocacaoDAO.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/exceptions/FilmeSemEstoqueException.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/entidades/Usuario.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/daos/LocacaoDAOFake.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/buildermaster/BuilderMaster.java
+/Users/matheus/Documents/Codigo Projetos Estudo/JUnitEstudo/TestesUnitarios/src/main/java/br/ce/wcaquino/entidades/Locacao.java
